@@ -1,0 +1,5 @@
+TYPO3:
+  Flow:
+    error:
+      exceptionHandler:
+        className: 'Flowpack\Whoops\WhoopsErrorHandler'
